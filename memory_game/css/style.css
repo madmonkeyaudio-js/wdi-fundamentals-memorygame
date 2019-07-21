@@ -6,7 +6,7 @@ body {
 
 main {
 
-	width: 850px;
+	max-width: 850px;
 	margin: 35px auto;
 }
 header {
@@ -109,4 +109,13 @@ footer {
 
 	color: #F15B31;
 	font-weight: 700;
+}
+
+#reset {
+	background: rgba(100, 20, 100, 0.5);
+	margin: 0 auto;
+	max-width: 150px;
+	border-radius: 30px;
+	
+
 }
